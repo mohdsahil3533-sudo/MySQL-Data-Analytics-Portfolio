@@ -122,8 +122,8 @@ Payments
 Create the database using:
 
 ```sql
-CREATE DATABASE harryshop;
-USE harryshop;
+CREATE DATABASE merchandise_store;
+USE merchandise_store;
 ```
 
 The project then creates the following tables:
